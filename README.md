@@ -1,6 +1,6 @@
 # PharmEasy-Clone
 
-We have tried cloning the PharmEasy app as a construct week project in the second week of our Masai Journey. We, a team of 5 people have completed this project in a span of 5 days using our knowledge of HTML, CSS and JavaScript.
+We have tried cloning the PharmEasy app as a construct week project in the second week of our Masai Journey. We, a team of 6 people have completed this project in a span of 5 days using our knowledge of HTML, CSS and JavaScript.
 
 ## About the website
 
